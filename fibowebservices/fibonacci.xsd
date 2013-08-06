@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fibonacci>
+<value index="0">0</value>
+<value index="1">1</value>
+<value index="2">1</value>
+<value index="3">2</value>
+<value index="4">3</value>
+<value index="5">5</value>
+<value index="6">8</value>
+<value index="7">13</value>
+<value index="8">21</value>
+</fibonacci>
